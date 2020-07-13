@@ -1,5 +1,6 @@
 # otherplacespickles
-Other Places Pickles is an IGM for Lord 5.00 JS by Mortifis
+Other Places Pickles is an IGM for Lord 5.00 JS by 
+The Lizard Master
 
 See LORD 5.00 JS Sysop.doc for installing this and other IGMs
 
