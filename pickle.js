@@ -5,12 +5,12 @@ function menu() {
 		lln('  `5Welcome Other Places Pickles\'s!');
 		lln('  `2Home of the Pickle Goddess!');
 		sln('');
-        display_file(gamedir('/pickle/pickle.ans'));
+        display_file(js.exec_dir+'pickle.ans');
 		more_nomail();
         var runonce = false;
         do {
             sclrscr();
-            display_file(gamedir('/pickle/garden.ans'));
+            display_file(js.exec_dir+'garden.ans');
             lln('  `5The Pickle Goddess has decided to allow you to');
             lln('  `5pick a Pickle from her garden! But choose wisely,');
             lln('  `5Not all are great choices!  The higher you go,');
